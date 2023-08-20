@@ -1,0 +1,14 @@
+{"properties": [
+  {
+    "name": "app.jwt.signature.secret",
+    "type": "java.lang.String",
+    "description": "defines signature key (must be in env-variable)"
+  },
+  {
+    "name": "app.jwt.expiration.period",
+    "type": "java.lang.String",
+    "description": "defines period of expiration for JWT issued"
+  }
+  
+  
+]}
